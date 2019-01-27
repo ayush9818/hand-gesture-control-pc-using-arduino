@@ -6,15 +6,11 @@ Dependencies:
 
 2) serial : pip install serial
 
-#######################################################################
-
 Hardware Used:
 
 1) Arduino 
 
 2) Two ultraSonic Sensors
-
-########################################################################
 
 Contents:
 
