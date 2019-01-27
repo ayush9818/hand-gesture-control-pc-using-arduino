@@ -1,15 +1,34 @@
 # hand-gesture-control-pc-using-arduino
 
-Installation Instructions
+Dependencies:
 
-pyautogui : pip install pyautogui
+1) pyautogui : pip install pyautogui
 
-serial : pip install serial
+2) serial : pip install serial
 
-//////////////////////////////////////////
+#######################################################################
 
-Hardware Used
+Hardware Used:
 
 1) Arduino 
+
 2) Two ultraSonic Sensors
+
+########################################################################
+
+Contents:
+
+1) main.py : python file that receives data from ultrasonic sensor via arduino through ultrasonic sensor
+
+2) arduino_control/pc_auto.ino : arduino file that interacts with ultrasonic sensor
+
+Features : 
+
+1) Play / Pause : When both hands are detected
+
+2) Rewind : When only left hand is detected
+
+3) Forward : When only right hand is detected
+
+4) Volume Up/Down : Motion of right hand forward and backward
 
