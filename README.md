@@ -10,13 +10,13 @@ Hardware Used:
 
 1) Arduino 
 
-2) Two ultraSonic Sensors
+2) Two UltraSonic Sensors
 
 Contents:
 
-1) main.py : python file that receives data from ultrasonic sensor via arduino through ultrasonic sensor
+1) main.py : Python file that receives data from ultrasonic sensor via arduino through ultrasonic sensor
 
-2) arduino_control/pc_auto.ino : arduino file that interacts with ultrasonic sensor
+2) arduino_control/pc_auto.ino : Arduino file that interacts with ultrasonic sensor
 
 Features : 
 
